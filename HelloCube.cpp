@@ -4,7 +4,7 @@
  * Copyright (c) 2014 by Universitaet Stuttgart (VISUS).
  * All rights reserved.
  * 
- * This file is part of OGL4Core.
+ * This file is part of OGL4Core. test
  */
  
 #include "stdafx.h"
